@@ -1,3 +1,6 @@
-# AE-Scriptをもっと便利に使えるようにするサイト「MayOS」
-MayOSはAE-Scriptをもっと便利に使うことができます。
-### MayOSのAE IDは`ae/may`です。
+# MayOS サイト
+
+MayOSはMay-codeとAE-Scriptを運営している個人サイトです。
+
+MayOSのAE IDは`ae/may`です。
+
